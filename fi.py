@@ -1,2 +1,1 @@
 print('heolldkdfhgjfj')
-ptint("yogi")
